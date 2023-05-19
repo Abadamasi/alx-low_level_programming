@@ -3,7 +3,7 @@
  * c program
  *
  */
-main - entry point
+int main - entry point
 {
 	puts("Programming is like building a multilingual puzzle);
 	return (0);
