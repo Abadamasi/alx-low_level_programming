@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
- * c program
+ * main - C program that prints single line
  *
  */
-int main - entry point
+void main - c is fun
 {
 	puts("Programming is like building a multilingual puzzle");
 	return (0);
