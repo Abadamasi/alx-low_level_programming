@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
+/**
+ * main - Entry points
  *
- * main - C program that prints single line
+ * Description: prints out a sentence
  *
  * Return: Always 0 (Success)
  */
